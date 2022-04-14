@@ -1,4 +1,4 @@
-LOCALIDADE,TAXA1,TAXA2,TAXA3,TAXA4,TAXA5,TAXA6,TAXA7,TAXA8,TAXA9,TAXA10,TAXA11,Idade ignorada,TAXA BRUTA,Classificação,Pop. Mundial(1),Pop. Brasil(2)
+LOCALIDADE,TAXA1,TAXA2,TAXA3,TAXA4,TAXA5,TAXA6,TAXA7,TAXA8,TAXA9,TAXA10,TAXA11,Idade ignorada,TAXA BRUTA,Classificação,Pop.Mundial(1),Pop.Brasil(2)
 LOCALIDADE,00 a 04,05 a 09,10 a 14,15 a 19,20 a 29,30 a 39,40 a 49,50 a 59,60 a 69,70 a 79,80 ou mais,Idade ignorada,Taxa Bruta,Classificação,Pop. Mundial(1),Pop. Brasil(2)
 AL,0,0,"0,06","0,25","1,66","6,6","22,11","51,52","106,71","214,23","427,25",0,"24,68",8,"26,54","29,21"
 BA,"0,03","0,02","0,06","0,2","1,01","6,34","19,85","47,91","111,81","219,58","476,45",0,"29,24",7,"26,82","29,65"
